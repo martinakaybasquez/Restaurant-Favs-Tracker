@@ -9,12 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="928c43e3-ed64-4fc2-9c31-ac28b80896f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Backend/NOTES" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Controllers/FavoriteController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../AngularToDo/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../AngularToDo/src/app/app.component.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Backend/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Backend/Backend.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Backend.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Controllers/WeatherForecastController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Backend/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Backend/WeatherForecast.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../VillageSim/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VillageSim/angular.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../VillageSim/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VillageSim/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../VillageSim/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VillageSim/package.json" afterDir="false" />
@@ -97,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727825251278</updated>
-      <workItem from="1727825252583" duration="374000" />
+      <workItem from="1727825252583" duration="2976000" />
     </task>
     <servers />
   </component>
